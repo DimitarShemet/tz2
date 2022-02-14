@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   data-name="Livello 1"
+   id="Livello_1"
+   viewBox="0 0 151.57 151.57"
+   version="1.1"
+   sodipodi:docname="star.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs844" />
+  <sodipodi:namedview
+     id="namedview842"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="5.3374678"
+     inkscape:cx="75.785001"
+     inkscape:cy="75.785001"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Livello_1" />
+  <title
+     id="title835" />
+  <circle
+     cx="3.6448705"
+     cy="96.353645"
+     r="26.243103"
+     style="fill:#2ab078;stroke:#f2f2f2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     transform="matrix(0.7074104,-0.70680303,0.7074104,0.70680303,0,0)"
+     id="circle837" />
+  <polygon
+     points="112.12,67.63 93.95,85.33 98.24,110.34 75.78,98.53 53.33,110.34 57.62,85.33 39.45,67.63 64.56,63.98 75.78,41.23 87.01,63.98 "
+     style="fill:#2ab066;stroke:#f2f2f2;stroke-width:6.95586912;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     id="polygon839"
+     transform="matrix(0.36290194,0,0,0.3533909,43.370296,37.839902)" />
+</svg>

@@ -1,0 +1,112 @@
+
+.wrapper{
+    width: 600px;
+    margin:  0 auto;
+
+}
+.first_block{
+    background-color: #3DDE97;
+    color: white;
+    border-radius: 16px;
+    width: 261px;
+    height: 276px;
+    position: relative;
+    top: 30px;
+    background-size: 61%;
+    background-repeat: no-repeat;
+    background-image: url(star.svg);
+    background-position-x: -24%;
+    background-position-y: -6%;
+}
+
+.text{
+    position: absolute;
+    left: 82px;
+    font-size: 15px;
+    top: 47px;
+    background: 
+    url(mark.svg)   132px 85px  no-repeat,
+    url(mark.svg) 132px 109px no-repeat, 
+    url(mark.svg) 132px 135px no-repeat;
+    background-size: 23px, 23px 23px;   
+}
+
+ .text h1{
+    font-size: 31px;
+    margin-left: 54px;
+    font-family: 'Montserrat', sans-serif;
+   
+}
+
+
+
+ .text h2{
+    margin-top: 22px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    margin-left: 7px;
+}
+
+ h3.email{
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 13px;
+  margin-left: 17px;
+  background-repeat: no-repeat;
+}
+ h3.number{
+    margin-top: 10px;
+    margin-left: -46px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+h3.details{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    margin-left: -33px;
+    margin-top: 11px;
+}
+.text h4{
+    margin-top: 29px;
+    margin-left: -56px;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+}
+.second_block{
+    border-radius: 16px;
+    width: 261px;
+    height: 276px;
+    position: relative;
+    left: 291px;
+    top: -248px;
+    box-shadow: 0px 4px 20px rgb(0 0 0 / 15%);
+    color: #838383;
+    background: url(second_star.svg);
+    background-position-x: -14px;
+    background-position-y: 36px;
+    background-size: 95px;
+    background-repeat: no-repeat;
+}
+    
+h3.photo_id{
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 13px;
+    margin-left: 11px;
+}
+
+h3.utility_bill{
+    margin-top: 8px;
+    margin-left: 6px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+h4.price{
+    margin-top: 55px;
+    margin-left: -60px;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+}
+ h3 input{
+    margin-left: 10px;
+}
